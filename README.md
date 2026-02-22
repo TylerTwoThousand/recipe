@@ -14,4 +14,6 @@ line 2 changed remotely
 2. Second item in my ordered list
 3. Third item in my ordered list
 
+![Here is a picture of the final product](recipe.jpg)
+
 ### This is a REMOTE change :)
